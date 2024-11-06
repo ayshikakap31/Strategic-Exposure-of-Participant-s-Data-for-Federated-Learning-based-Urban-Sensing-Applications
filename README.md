@@ -32,3 +32,10 @@ For contact, feel free to reach out to "ayshika.kapoor" at gmail dot com.
   Brightkite was once a location-based social networking service provider where users shared their locations by checking-in. The friendship network was collected using their public API, and consists of 58,228 nodes and 214,078 edges. The network is originally directed but the collectors have constructed a network with undirected edges when there is a friendship in both ways. The collectors have also collected a total of 4,491,143 checkins of these users over the period of Apr. 2008 - Oct. 2010.
   
   **Access**: [SNAP: Stanford Network Analysis Project](https://snap.stanford.edu/data/loc-brightkite.html)
+---
+
+## Citation
+
+If you use this code or any part of this work in your research, please cite our paper:
+
+A. Kapoor and D. Kumar, “Computation and Communication Efficient Approach for Federated Learning based Urban Sensing Applications against Inference Attacks,” _Pervasive and Mobile Computing_, 98, p. 101875, 2024.
