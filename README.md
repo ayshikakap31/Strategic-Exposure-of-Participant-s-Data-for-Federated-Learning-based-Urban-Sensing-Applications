@@ -3,7 +3,7 @@ This repository contains supplementary material for the following work:
 - **Title**: "Computation and communication efficient approach for federated learning based urban sensing applications against inference attacks"
 - **Authors**: Ayshika Kapoor, Dheeraj Kumar
 - **Journal**: Pervasive and Mobile Computing
-- **Paper**: [paper.pdf]()
+- **Paper**: [paper.pdf](https://github.com/ayshikakap31/Strategic-Exposure-of-Participant-s-Data-for-Federated-Learning-based-Urban-Sensing-Applications/blob/b52d6373ac5a6715f19ecad4f7de4c370545b62f/Paper.pdf)
 
 For contact, feel free to reach out to "ayshika.kapoor" at gmail dot com.
 
